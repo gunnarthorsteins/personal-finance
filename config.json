@@ -1,0 +1,67 @@
+{
+    "keys": {
+        "Payments": {
+            "A-1": "Laun nettó",
+            "A-2": "Gjafir",
+            "A-3": "Endurgreiðslur",
+            "A-4": "Sparnaður/vextir/söluhagnaður/styrkir",
+            "A-5": "Barnabætur",
+            "A-6": "Lántaka",
+            "A-7": "Leigutekjur",
+            "A-8": "Annað"
+        },
+        "Home": {
+            "B-1": "Eating in",
+            "B-2": "Eating out",
+            "B-3": "Íbúðarlán",
+            "B-4": "Rafmagn hiti og vatn",
+            "B-5": "Fasteigna- og húsgjöld",
+            "B-6": "Internet",
+            "B-7": "Sparnaður",
+            "B-8": "Tryggingar",
+            "B-9": "Námslán",
+            "B-10": "Símar og símnotkun",
+            "B-11": "Húsgögn/tæki (önnur en símar)",
+            "B-12": "Rekstur endurbætur og viðhald húsnæðis",
+            "B-13": "Fatnaður og búnaður",
+            "B-14": "Menntun (skólagjöld o.þ.h.)",
+            "B-15": "Hárumhirða & snyrtivörur",
+            "B-16": "Endurgreiðsla skatta",
+            "B-17": "Bankagjöld",
+            "B-18": "Húsaleiga",
+            "B-19": "Leikskólagjöld"
+        },
+        "Transportation": {
+            "C-1": "Eldsneyti",
+            "C-2": "Flug",
+            "C-3": "Almenningssamgöngur, þ.m.t. Herjólfur",
+            "C-4": "Bílalán",
+            "C-5": "Viðhaldskostnaður/kaup bíls",
+            "C-6": "Viðhaldskostnaður/kaup hjóla/kerra",
+            "C-7": "Gistikostnaður utan húsaleigu"
+        },
+        "Activities": {
+            "D-1": "Hreyfing/námskeið",
+            "D-2": "Læknar, sjúkraþjálfarar etc.",
+            "D-3": "Lyf",
+            "D-4": "Sund"
+        },
+        "Entertainment": {
+            "E-1": "Skemmtanir, kappleikir",
+            "E-2": "Bækur, leikir, lottó, dót o.þ.u.l.",
+            "E-3": "Áfengi og samkvæmi",
+            "E-4": "Áskriftir (Netflix Spotify etc.)"
+        },
+        "Misc": {
+            "F-1": "Óflokkað/annað",
+            "F-2": "Gjafir",
+            "F-3": "Sparnaður krakkar"
+        }
+    },
+    "column_names": {
+        "Dagsetning": "Date",
+        "Söluaðili eða skýring": "Description",
+        "Upphæð(ISK)": "Amount",
+        "Upphæð": "Amount"
+    }
+}
